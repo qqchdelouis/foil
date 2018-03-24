@@ -40,9 +40,9 @@ New :  https://a860-openrecords.nyc.gov/request/new
 
 Details : Unknown
 
-New York City Council
-250 Broadway
-New York, NY 10007
+New York City Council,
+	250 Broadway,
+		New York, NY 10007.
 
 Current officer : Danielle Barbato, Council Records Officer (dbarbato@council.nyc.gov)
 
@@ -85,9 +85,10 @@ New :  https://a860-openrecords.nyc.gov/request/new
 
 Details : https://www.nyccfb.info/law/foil/
 
-New York City Campaign Finance Board
-100 Church Street, 12th Floor
-New York, NY 10007
+New York City Campaign Finance Board,
+	100 Church Street, 12th Floor,
+		New York, NY 10007.
+
 Fax : 212-409-1705
 
 Attention :  Records Access Officer, (foil@nyccfb.info)
@@ -104,11 +105,12 @@ Details :  https://comptroller.nyc.gov/services/for-the-public/freedom-of-inform
 
 Online form: https://comptroller.nyc.gov/services/for-the-public/freedom-of-information-law-foil-requests/submit-online/
 
-Records Access Officer
-New York City Comptroller’s Office
-One Centre Street, Room 602
-Municipal Building
-New York, NY 10007
+Records Access Officer,
+	New York City Comptroller’s Office,
+		One Centre Street, Room 602,
+			Municipal Building,
+				New York, NY 10007.
+
 foil@comptroller.nyc.gov
 
 
@@ -126,9 +128,10 @@ New :  https://a860-openrecords.nyc.gov/request/new
 
 Details : https://www.nycedc.com/about-nycedc/contact-us
 
-New York City Economic Development Corporation 
-110 William Street 
-New York, NY 10038 
+New York City Economic Development Corporation, 
+	110 William Street,
+		New York, NY 10038.
+
 FOIL@edc.nyc
 
 Attention :  Records Access Officer 
@@ -140,9 +143,10 @@ No FOIL contact.
 
 Contact details :  https://brooklynnavyyard.org/about-bnydc/contact/
 
-Brooklyn Navy Yard Development Corporation
-63 Flushing Avenue, Unit 300
-Brooklyn, NY 11205
+Brooklyn Navy Yard Development Corporation,
+	63 Flushing Avenue, Unit 300,
+		Brooklyn, NY 11205.
+
 718-907-5900 | phone
 718-643-9296 | fax
 info@bnydc.org
