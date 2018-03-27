@@ -80,6 +80,17 @@ New :  https://a860-openrecords.nyc.gov/request/new
 
 New :  https://a860-openrecords.nyc.gov/request/new
 
+Details :  http://www.nyc.gov/html/dot/html/about/foil.shtml
+
+Form :  http://www.nyc.gov/html/dot/downloads/pdf/foil_request_form_english.pdf
+
+New York City Department of Transportation,
+	Records Access Officer,
+		55 Water Street, 4th Floor,
+			New York, NY  10041.
+
+dotfoil@dot.nyc.gov
+
 
 #### New York City Campaign Finance Board (CFB) (done)
 
@@ -87,7 +98,7 @@ Details : https://www.nyccfb.info/law/foil/
 
 New York City Campaign Finance Board,
 	100 Church Street, 12th Floor,
-		New York, NY 10007.
+		New York, NY  10007.
 
 Fax : 212-409-1705
 
