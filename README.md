@@ -60,6 +60,17 @@ New :  https://a860-openrecords.nyc.gov/request/new
 
 New :  https://a860-openrecords.nyc.gov/request/new
 
+Form :  http://www.nyc.gov/html/dep/pdf/foilform.pdf
+
+Details : http://www.nyc.gov/html/dep/html/contact_us/foil_instructions.shtml
+
+Records Access Officer,
+	New York City Department of Environmental Protection, 
+		59-17 Junction Blvd., 19th Floor, 
+			Flushing, NY  11373. 
+
+FOIL2@dep.nyc.gov
+
 
 #### New York City Department of Finance (DOF)
 
