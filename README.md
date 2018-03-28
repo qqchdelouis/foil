@@ -120,6 +120,17 @@ Attention :  Records Access Officer, (foil@nyccfb.info)
 
 New :  https://a860-openrecords.nyc.gov/request/new
 
+Form :  https://www1.nyc.gov/assets/cchr/downloads/pdf/FOIL_RequestForm.pdf
+
+Details :  https://www1.nyc.gov/site/cchr/about/submit-a-foil-request.page
+
+FOIL Officer,
+	NYC Commission on Human Rights,
+		P.O. Box 2023,
+			New York,  NY 10272.
+
+foil@cchr.nyc.gov
+
 
 #### New York City Office of the Comptroller
 
