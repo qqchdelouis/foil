@@ -8,7 +8,7 @@ FOAI and FOIL contact information and resources.
 
 ## Federal Agencies
 
-#### U.S. Department of Justice (DOJ) (done)
+#### U.S. Department of Justice (DOJ)
 
 Details: https://www.justice.gov/usao/resources/making-foia-request
 
@@ -29,7 +29,7 @@ Before submitting any request, check the relevant site for current information a
 
 ## New York City Agencies
 
-#### Office of the Mayor of the City of New York  (done)
+#### Office of the Mayor of the City of New York
 
 New :  https://a860-openrecords.nyc.gov/request/new
 
